@@ -1,2 +1,0 @@
-Hostname	FortiGate-101F-Primary
-Serial Number	FG101FTK20011082
